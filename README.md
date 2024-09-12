@@ -1,4 +1,6 @@
 # Anaya-Malik---Resume
 
 ### Projects
-R Shiny application: BestUSCities2.csv, app.R
+AI Detection: 
+R Shiny Application: BestUSCities2.csv, app.R
+
